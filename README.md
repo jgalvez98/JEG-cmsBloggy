@@ -4,8 +4,7 @@
 
   ## Description
   
-  Keep track and manage the departments, roles, and employees in your company in order to organize and plan your business with this command-line aplication.
-  
+ blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts.  
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
