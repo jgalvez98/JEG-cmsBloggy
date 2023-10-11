@@ -1,2 +1,2 @@
-DROP DATABASE IF EXISTS blog_nest_db;
-CREATE DATABASE blog_nest_db;
+DROP DATABASE IF EXISTS cmsbloggy_db;
+CREATE DATABASE cmsbloggy_db;
